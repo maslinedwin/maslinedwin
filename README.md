@@ -17,8 +17,8 @@
   <a href="https://t.me/maslinedwin">
     <img alt="Telegram @MaslinEdwin" src="https://img.shields.io/badge/TELEGRAM-%40MaslinEdwin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="mailto:hello@maslin.dev">
-    <img alt="Email hello@maslin.dev" src="https://img.shields.io/badge/EMAIL-hello%40maslin.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="maslin@donatuz.com">
+    <img alt="Email maslin@donatuz.com" src="https://img.shields.io/badge/EMAIL-maslin%40donatuz.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 

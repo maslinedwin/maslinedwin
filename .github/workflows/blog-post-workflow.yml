@@ -1,0 +1,37 @@
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://medium.com/feed/@maslinedwin,https://dev.to/feed/maslinedwin"
+          max_post_count: 5
+          template: "- $randomEmoji(🚀,💡,🙏,🔥,🌍,⭐,🎯,💪,🌟,✨) [$title]($url)"
+          commit_message: "📝 Updated README with latest blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
+          
+      - name: Update activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '📊 Update README with recent activity'
+          MAX_LINES: 10

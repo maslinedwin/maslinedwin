@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Maslin Edwin
 
-🚀 **Current Focus:** Building Donatuz - Creator Monetization Platform  
-🌍 **Location:** Building from Earth  
-💻 **Role:** Founder & Product Apostle  
-
 ## 🛠️ Tech Stack
 - **Languages:** TypeScript, JavaScript, Python, Solidity
 - **Frontend:** React, Next.js, TailwindCSS

@@ -4,28 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20,24,27&height=300&section=header&text=Maslin%20Edwin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Founder%20·%20Product%20Apostle%20·%20Code%20×%20Faith&descAlignY=58&descAlign=62" />
 
 
-<!-- Profile Views and Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maslinedwin&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/maslinedwin&query=$.public_repos&label=Public%20Repos&color=purple&style=for-the-badge" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/maslinedwin&query=$.followers&label=Followers&color=indigo&style=for-the-badge" alt="Followers" />
-</p>
-
-<!-- Animated Social Links with Pulse Effect -->
-<p align="center">
-  <a href="https://donatuz.org">
-    <img src="https://img.shields.io/badge/🚀_BUILDING_DONATUZ-Live-ff69b4?style=for-the-badge&labelColor=1a1a2e&color=ff69b4" alt="Donatuz" />
-  </a>
-  <a href="https://twitter.com/maslinedwin">
-    <img src="https://img.shields.io/badge/Twitter-@MaslinEdwin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e" alt="Twitter" />
-  </a>
-  <a href="https://t.me/maslinedwin">
-    <img src="https://img.shields.io/badge/Telegram-@MaslinEdwin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e" alt="Telegram" />
-  </a>
-  <a href="mailto:maslin@donatuz.com">
-    <img src="https://img.shields.io/badge/Email-maslin@donatuz.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
-  </a>
-</p>
 
 </div>
 
@@ -100,52 +78,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maslinedwin&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF69B4&currStreakLabel=9D4EDD" alt="maslinedwin" />
 </div>
 
-
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect & Collaborate
-
-<div align="center">
-  <a href="https://twitter.com/maslinedwin">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/maslinedwin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/maslinedwin">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:maslin@donatuz.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Recent Activity
-
-<!--START_SECTION:activity-->
-🚀 Building Donatuz creator monetization platform  
-💻 Optimizing full-stack architecture with Next.js & Node.js  
-⚡ Implementing blockchain integrations for transparent transactions  
-🔧 Enhancing user experience and platform performance  
-🙏 Daily coding with faith-driven purpose  
-<!--END_SECTION:activity-->
-
-## 🎯 2024 Goals
-
-- [ ] 🚀 Launch Donatuz MVP
-- [ ] 📈 Onboard 1000+ creators
-- [ ] 🌍 Expand to 50+ countries
-- [ ] 💰 Process $1M+ in creator transactions
-- [ ] 🤝 Build partnerships with major platforms
-- [ ] 📚 Open source key components
-
-## 💭 Daily Affirmation
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" />
-</div>
-
-
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://github.com/maslinedwin/maslinedwin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -155,48 +87,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20,24,27&height=100&section=footer" />
 </div>
-
-
-<!-- Auto-updating badges for live metrics -->
-<div align="center">
-  <img src="https://img.shields.io/github/last-commit/maslinedwin/donatuz?style=for-the-badge&logo=github&color=9D4EDD" alt="Last Commit" />
-  <img src="https://img.shields.io/github/stars/maslinedwin?style=for-the-badge&logo=github&color=FF69B4" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Status-Building%20MVP-success?style=for-the-badge&logo=rocket&color=00D4FF" alt="Status" />
-</div>
-
-<br/>
-
-
-
-
-
-<!-- Interactive Elements -->
-<details>
-<summary><b>🎯 Click to see my coding philosophy</b></summary>
-
-<br/>
-
-```javascript
-const codingPhilosophy = {
-    principles: [
-        "Code with purpose, build with passion",
-        "Faith guides the vision, work ethic delivers",
-        "Every line of code should empower someone",
-        "This bitch slaps through pure dedication"
-    ],
-    
-    dailyPractice: {
-        morning: "Prayer + Coffee + Code review",
-        coding: "Deep focus blocks with worship music",
-        evening: "Reflection + Planning + Gratitude"
-    },
-    
-    mission: "Empowering creators globally through technology",
-    motivation: "Building tools that matter for people who matter"
-};
-```
-
-</details>
 
 <!-- Meta Tags for SEO -->
 <!-- 

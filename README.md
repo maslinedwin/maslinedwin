@@ -34,36 +34,343 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3ZDdhMjYwYzBmNTY0MTRjOGU3ZmU3YjRhMDQ4Y2YwZDk5YzJjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="2" />
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+<!-- Enhanced About Me Section with Professional Layout & Visual Polish -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</div>
 
-```javascript
-const maslin = {
-    pronouns: "He/Him",
-    location: "Building from Earth 🌍",
-    currentFocus: "Donatuz - Creator Monetization Platform",
-    
-    mission: {
-        primary: "Empowering creators globally",
-        secondary: "Building with faith & code",
-        motto: "This bitch slaps through pure work ethic 💪"
-    },
-    
-    techStack: {
-        languages: ["TypeScript", "JavaScript", "Python", "Solidity"],
-        frontend: ["React", "Next.js", "TailwindCSS", "Framer Motion"],
-        backend: ["Node.js", "Express", "GraphQL", "PostgreSQL"],
-        blockchain: ["Ethereum", "Smart Contracts", "Web3.js"],
-        cloud: ["AWS", "Vercel", "Docker", "Kubernetes"]
-    },
-    
-    currentlyLearning: ["Rust", "Machine Learning", "DeFi Protocols"],
-    funFact: "I code better with worship music 🎵"
-};
-```
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&height=60&lines=🌍+Building+from+Earth;🚀+Current+Focus%3A+Donatuz+-+Creator+Monetization;⚡+Revolutionizing+Creator+Economy+Through+Technology;🙏+Faith+%2B+Code+%3D+Purpose" alt="Typing Animation" />
+</div>
 
-<br clear="right"/>
+<!-- Main Profile Card with Visual Enhancement -->
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="40%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation" style="border-radius: 15px;">
+        <br/>
+        <div style="margin-top: 15px;">
+          <img src="https://img.shields.io/badge/🎯_CURRENT_STATUS-Building%20Donatuz%20MVP-success?style=for-the-badge&labelColor=0D1117&color=9D4EDD" />
+        </div>
+      </td>
+      <td align="center" width="60%">
+        <h2>🚀 Founder · Product Apostle · Code × Faith</h2>
+        <br/>
+        
+        <!-- Quick Stats Cards -->
+        <table>
+          <tr>
+            <td align="center" width="50%">
+              <img src="https://img.shields.io/badge/📍_Location-Building%20from%20Earth%20🌍-4CAF50?style=for-the-badge&labelColor=0D1117" />
+              <br/><br/>
+              <img src="https://img.shields.io/badge/🎯_Focus-Creator%20Economy-FF6B35?style=for-the-badge&labelColor=0D1117" />
+            </td>
+            <td align="center" width="50%">
+              <img src="https://img.shields.io/badge/⚡_Tech_Stack-Full%20Stack%20%2B%20Blockchain-00D4FF?style=for-the-badge&labelColor=0D1117" />
+              <br/><br/>
+              <img src="https://img.shields.io/badge/🙏_Approach-Faith%20Driven%20Development-FFD700?style=for-the-badge&labelColor=0D1117" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Visual Separator with Gradient -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- Mission & Vision Cards with Enhanced Design -->
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> 
+    Mission & Core Values
+  </h3>
+</div>
+
+<table align="center" style="margin: 20px 0;">
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+        <h4 style="color: white;">🌟 Primary Mission</h4>
+        <img src="https://img.shields.io/badge/EMPOWERING-Creators%20Globally-9D4EDD?style=for-the-badge&labelColor=FFFFFF&color=9D4EDD" />
+        <p style="color: white; font-style: italic; margin-top: 10px;">"Democratizing creator monetization worldwide"</p>
+      </div>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+        <h4 style="color: white;">🙏 Core Values</h4>
+        <img src="https://img.shields.io/badge/BUILDING-Faith%20%26%20Code-FF69B4?style=for-the-badge&labelColor=FFFFFF&color=FF69B4" />
+        <p style="color: white; font-style: italic; margin-top: 10px;">"Technology with purpose and meaning"</p>
+      </div>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+        <h4 style="color: white;">⚡ Vision</h4>
+        <img src="https://img.shields.io/badge/REVOLUTIONIZING-Creator%20Economy-00D4FF?style=for-the-badge&labelColor=FFFFFF&color=00D4FF" />
+        <p style="color: white; font-style: italic; margin-top: 10px;">"Transparent, blockchain-powered future"</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Tech Stack Arsenal with Enhanced Visuals -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
+    Tech Stack Arsenal
+  </h3>
+</div>
+
+<details open>
+<summary><b>🚀 Click to explore my complete technology stack</b></summary>
+
+<br/>
+
+<table align="center" style="border-spacing: 15px;">
+  <tr>
+    <td align="center" width="25%" style="background: rgba(157, 78, 221, 0.1); padding: 20px; border-radius: 15px; border: 2px solid #9D4EDD;">
+      <h4>💻 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=typescript,javascript,python,solidity&theme=dark" />
+      <br/><br/>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+      </div>
+    </td>
+    <td align="center" width="25%" style="background: rgba(255, 105, 180, 0.1); padding: 20px; border-radius: 15px; border: 2px solid #FF69B4;">
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css&theme=dark" />
+      <br/><br/>
+      <div>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      </div>
+    </td>
+    <td align="center" width="25%" style="background: rgba(0, 212, 255, 0.1); padding: 20px; border-radius: 15px; border: 2px solid #00D4FF;">
+      <h4>⚙️ Backend</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgresql&theme=dark" />
+      <br/><br/>
+      <div>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
+    <td align="center" width="25%" style="background: rgba(255, 215, 0, 0.1); padding: 20px; border-radius: 15px; border: 2px solid #FFD700;">
+      <h4>☁️ Cloud & Web3</h4>
+      <img src="https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes&theme=dark" />
+      <br/><br/>
+      <div>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<!-- Learning Journey with Progress Indicators -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <h3>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> 
+    Current Learning Journey
+  </h3>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <div style="background: linear-gradient(45deg, #DE3C24, #FF6B35); padding: 15px; border-radius: 12px; margin: 10px;">
+          <h4 style="color: white;">🦀 Rust</h4>
+          <img src="https://img.shields.io/badge/Progress-70%25-DE3C24?style=for-the-badge&logo=rust&logoColor=white" />
+          <p style="color: white; font-size: 12px; margin-top: 8px;">Systems Programming</p>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <div style="background: linear-gradient(45deg, #4285F4, #34A853); padding: 15px; border-radius: 12px; margin: 10px;">
+          <h4 style="color: white;">🤖 Machine Learning</h4>
+          <img src="https://img.shields.io/badge/Progress-55%25-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+          <p style="color: white; font-size: 12px; margin-top: 8px;">AI Integration</p>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <div style="background: linear-gradient(45deg, #9D4EDD, #FF69B4); padding: 15px; border-radius: 12px; margin: 10px;">
+          <h4 style="color: white;">🏦 DeFi Protocols</h4>
+          <img src="https://img.shields.io/badge/Progress-85%25-9D4EDD?style=for-the-badge&logo=ethereum&logoColor=white" />
+          <p style="color: white; font-size: 12px; margin-top: 8px;">Blockchain Finance</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Fun Fact Section with Enhanced Styling -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <h3>
+    <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="35"> 
+    Fun Development Facts
+  </h3>
+  
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px auto; max-width: 600px; border: 3px solid #9D4EDD;">
+    <img src="https://img.shields.io/badge/🎵_CODING_SOUNDTRACK-Worship%20Music%20%2B%20Focus-FFD700?style=for-the-badge&labelColor=FFFFFF&color=FF69B4" />
+    <br/><br/>
+    <p style="color: white; font-style: italic; font-size: 16px;">
+      <strong>"When faith meets code, miracles happen in the terminal"</strong>
+    </p>
+    <br/>
+    <div>
+      <img src="https://img.shields.io/badge/Best%20Code%20Time-Early%20Morning-success?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Coffee%20Level-Infinite-brown?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Prayer%20Breaks-Essential-gold?style=flat-square&labelColor=0D1117" />
+    </div>
+  </div>
+</div>
+
+<!-- Faith & Code Philosophy with Interactive Element -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <details>
+  <summary><b>✨ Faith × Code Philosophy (Click to explore deeper)</b></summary>
+  
+  <br/>
+  
+  <table align="center" style="border: 2px solid #9D4EDD; border-radius: 15px; background: linear-gradient(135deg, rgba(157, 78, 221, 0.1) 0%, rgba(255, 105, 180, 0.1) 100%);">
+    <tr>
+      <td align="center" style="padding: 30px;">
+        <h3>🎯 Core Development Principles</h3>
+        <div style="text-align: left; max-width: 500px; margin: 0 auto;">
+          <p>✨ <strong>Code with Purpose:</strong> Every function serves a greater mission</p>
+          <p>🙏 <strong>Faith-Guided Vision:</strong> Divine inspiration meets technical execution</p>
+          <p>⚡ <strong>Empower Through Technology:</strong> Build tools that uplift creators</p>
+          <p>🚀 <strong>Excellence in Execution:</strong> Quality through dedication and prayer</p>
+        </div>
+        <br/>
+        <h4>📅 Daily Development Rhythm</h4>
+        <table align="center" style="margin-top: 15px;">
+          <tr>
+            <td align="center" width="33%">
+              <div style="background: rgba(255, 215, 0, 0.2); padding: 15px; border-radius: 10px;">
+                <strong>🌅 Morning</strong><br/>
+                <small>Prayer + Coffee + Code Review</small>
+              </div>
+            </td>
+            <td align="center" width="33%">
+              <div style="background: rgba(157, 78, 221, 0.2); padding: 15px; border-radius: 10px;">
+                <strong>💻 Deep Work</strong><br/>
+                <small>Focus Blocks + Worship Music</small>
+              </div>
+            </td>
+            <td align="center" width="33%">
+              <div style="background: rgba(255, 105, 180, 0.2); padding: 15px; border-radius: 10px;">
+                <strong>🌙 Evening</strong><br/>
+                <small>Reflection + Planning + Gratitude</small>
+              </div>
+            </td>
+          </tr>
+        </table>
+        <br/>
+        <blockquote style="font-style: italic; color: #666; border-left: 4px solid #9D4EDD; padding-left: 20px; margin: 20px 0;">
+          "Every line of code is an opportunity to serve others and build something meaningful. Through faith-driven development, we create technology that empowers and uplifts the creator community."
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+  
+  </details>
+</div>
+
+<!-- Section Footer with Breathing Room -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="40"> Mission & Vision
+
+<div align="center">
+
+<!-- Mission Cards -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <div>
+        <img src="https://img.shields.io/badge/🌍_GLOBAL_IMPACT-Empowering%20Creators%20Worldwide-FF6B6B?style=for-the-badge&labelColor=2C3E50&logoColor=white" alt="Global Impact" />
+        <br/><br/>
+        <h3>🚀 Primary Mission</h3>
+        <p><strong>"Empowering creators globally"</strong></p>
+        <p><em>Breaking barriers, building bridges for creative minds everywhere</em></p>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div>
+        <img src="https://img.shields.io/badge/🙏_FAITH_×_CODE-Building%20with%20Purpose-9B59B6?style=for-the-badge&labelColor=2C3E50&logoColor=white" alt="Faith & Code" />
+        <br/><br/>
+        <h3>✨ Core Values</h3>
+        <p><strong>"Building with faith & code"</strong></p>
+        <p><em>Where divine inspiration meets technical innovation</em></p>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div>
+        <img src="https://img.shields.io/badge/⚡_REVOLUTION-Technology%20Transformation-00BCD4?style=for-the-badge&labelColor=2C3E50&logoColor=white" alt="Revolution" />
+        <br/><br/>
+        <h3>🔮 Vision</h3>
+        <p><strong>"Revolutionizing creator economy through technology ⚡"</strong></p>
+        <p><em>Reshaping how creators connect, create, and thrive</em></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Visual Separators & Impact Badges -->
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯_IMPACT_DRIVEN-Mission%20Critical-gold?style=for-the-badge&labelColor=1a1a2e&color=FFD700" alt="Impact Driven" />
+  <img src="https://img.shields.io/badge/🌟_INNOVATION_FIRST-Tech%20Pioneer-blue?style=for-the-badge&labelColor=1a1a2e&color=4A90E2" alt="Innovation First" />
+  <img src="https://img.shields.io/badge/💎_FAITH_POWERED-Divine%20Code-purple?style=for-the-badge&labelColor=1a1a2e&color=9D4EDD" alt="Faith Powered" />
+</div>
+
+<br/>
+
+<!-- Inspirational Quote Card -->
+<div align="center">
+  <img width="80%" src="https://img.shields.io/badge/💡_"Code%20with%20purpose,%20build%20with%20passion,%20serve%20with%20love"_✨-inspirational-FF69B4?style=for-the-badge&labelColor=0D1117&color=FF69B4" alt="Inspirational Quote" />
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3ZDdhMjYwYzBmNTY0MTRjOGU3ZmU3YjRhMDQ4Y2YwZDk5YzJjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="2" />
+</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> What I'm Building
 
@@ -128,37 +435,265 @@ const maslin = {
 
 <div align="center">
 
-### Languages
+<!-- Skillicons.dev Integration -->
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,solidity,react,nextjs,tailwind,nodejs,express,graphql,postgres,aws,vercel,docker,kubernetes&theme=dark&perline=8" alt="Tech Stack Icons" />
 </p>
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+<!-- Advanced Tech Stack Grid -->
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🚀 <b>Languages</b></h3>
+      <img src="https://skillicons.dev/icons?i=ts,js,py,solidity&theme=dark" alt="Languages" />
+      <br/><br/>
+      <img src="https://progress-bar.dev/95/?title=TypeScript&width=140&color=007ACC" />
+      <br/>
+      <img src="https://progress-bar.dev/92/?title=JavaScript&width=140&color=F7DF1E" />
+      <br/>
+      <img src="https://progress-bar.dev/85/?title=Python&width=140&color=3776AB" />
+      <br/>
+      <img src="https://progress-bar.dev/80/?title=Solidity&width=140&color=363636" />
+    </td>
+    <td align="center" width="25%">
+      <h3>⚛️ <b>Frontend</b></h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,framer&theme=dark" alt="Frontend" />
+      <br/><br/>
+      <img src="https://progress-bar.dev/98/?title=React&width=140&color=61DAFB" />
+      <br/>
+      <img src="https://progress-bar.dev/95/?title=Next.js&width=140&color=000000" />
+      <br/>
+      <img src="https://progress-bar.dev/90/?title=TailwindCSS&width=140&color=38B2AC" />
+      <br/>
+      <img src="https://progress-bar.dev/88/?title=Framer%20Motion&width=140&color=0055FF" />
+    </td>
+    <td align="center" width="25%">
+      <h3>🔧 <b>Backend</b></h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres&theme=dark" alt="Backend" />
+      <br/><br/>
+      <img src="https://progress-bar.dev/93/?title=Node.js&width=140&color=339933" />
+      <br/>
+      <img src="https://progress-bar.dev/90/?title=Express&width=140&color=000000" />
+      <br/>
+      <img src="https://progress-bar.dev/85/?title=GraphQL&width=140&color=E10098" />
+      <br/>
+      <img src="https://progress-bar.dev/88/?title=PostgreSQL&width=140&color=316192" />
+    </td>
+    <td align="center" width="25%">
+      <h3>☁️ <b>Cloud & DevOps</b></h3>
+      <img src="https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes&theme=dark" alt="Cloud" />
+      <br/><br/>
+      <img src="https://progress-bar.dev/87/?title=AWS&width=140&color=232F3E" />
+      <br/>
+      <img src="https://progress-bar.dev/95/?title=Vercel&width=140&color=000000" />
+      <br/>
+      <img src="https://progress-bar.dev/82/?title=Docker&width=140&color=2496ED" />
+      <br/>
+      <img src="https://progress-bar.dev/75/?title=Kubernetes&width=140&color=326CE5" />
+    </td>
+  </tr>
+</table>
 
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### Blockchain & Cloud
-<p>
+<!-- Blockchain & Web3 Special Section -->
+<div align="center">
+  <h3>⛓️ <b>Blockchain & Web3</b></h3>
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-Expert-purple?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/DeFi-Building-gold?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <br/><br/>
+  <img src="https://progress-bar.dev/80/?title=Smart%20Contracts&width=200&color=627EEA" />
+  <img src="https://progress-bar.dev/85/?title=Web3%20Integration&width=200&color=F16822" />
+</div>
+
+<!-- Visual Tech Proficiency Chart -->
+<div align="center">
+  <h3>📊 <b>Proficiency Overview</b></h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maslinedwin&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9&count_private=true&custom_title=Languages%20I%20Code%20With" />
+</div>
+
+<!-- Mobile Responsive Grid Alternative -->
+<details>
+<summary><b>📱 View Mobile-Optimized Tech Stack</b></summary>
+<br/>
+
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **🚀 Languages** | TypeScript, JavaScript, Python, Solidity | ![95%](https://progress-bar.dev/95) ![92%](https://progress-bar.dev/92) ![85%](https://progress-bar.dev/85) ![80%](https://progress-bar.dev/80) |
+| **⚛️ Frontend** | React, Next.js, TailwindCSS, Framer Motion | ![98%](https://progress-bar.dev/98) ![95%](https://progress-bar.dev/95) ![90%](https://progress-bar.dev/90) ![88%](https://progress-bar.dev/88) |
+| **🔧 Backend** | Node.js, Express, GraphQL, PostgreSQL | ![93%](https://progress-bar.dev/93) ![90%](https://progress-bar.dev/90) ![85%](https://progress-bar.dev/85) ![88%](https://progress-bar.dev/88) |
+| **⛓️ Blockchain** | Ethereum, Smart Contracts, Web3.js | ![80%](https://progress-bar.dev/80) ![80%](https://progress-bar.dev/80) ![85%](https://progress-bar.dev/85) |
+| **☁️ Cloud** | AWS, Vercel, Docker, Kubernetes | ![87%](https://progress-bar.dev/87) ![95%](https://progress-bar.dev/95) ![82%](https://progress-bar.dev/82) ![75%](https://progress-bar.dev/75) |
+
+</details>
+
+<!-- Interactive Tech Stack Showcase -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Technologies-20+-9D4EDD?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Years%20Experience-5+-FF69B4?style=for-the-badge&logo=calendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Projects-3-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" />
+</div>
+
+</div>
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40"> Learning Journey 2024
+
+<div align="center">
+
+### 🎯 Currently Mastering
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🦀_RUST-Learning-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=CE422B&color=000000" />
+      <br/>
+      <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      <br/>
+      <sub><b>Systems Programming</b></sub>
+      <br/>
+      <sub>Building high-performance backends</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🤖_ML/AI-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00&color=FF8F00" />
+      <br/>
+      <img src="https://progress-bar.dev/60/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      <br/>
+      <sub><b>Machine Learning</b></sub>
+      <br/>
+      <sub>AI-powered creator tools</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/💎_DeFi-Learning-6F42C1?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=6F42C1&color=8A63D2" />
+      <br/>
+      <img src="https://progress-bar.dev/45/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      <br/>
+      <sub><b>DeFi Protocols</b></sub>
+      <br/>
+      <sub>Decentralized finance systems</sub>
+    </td>
+  </tr>
+</table>
+
+### 📚 Learning Roadmap
+
+```mermaid
+graph LR
+    A[🦀 Rust Fundamentals] --> B[⚡ Performance Optimization]
+    C[🤖 ML Basics] --> D[🧠 Deep Learning]
+    E[💎 DeFi Concepts] --> F[🔗 Protocol Development]
+    
+    B --> G[🚀 Production Systems]
+    D --> H[🎯 Creator AI Tools]
+    F --> I[💰 Advanced DeFi]
+    
+    G & H & I --> J[🌟 Next Level Innovation]
+```
+
+### 🎓 Learning Stats
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Study%20Hours%2FWeek-15%2B-success?style=for-the-badge&logo=book&color=28a745" />
+  <img src="https://img.shields.io/badge/Learning%20Streak-45%20days-orange?style=for-the-badge&logo=fire&color=fd7e14" />
+  <img src="https://img.shields.io/badge/Completed%20Courses-8-blue?style=for-the-badge&logo=graduation-cap&color=007bff" />
+  <img src="https://img.shields.io/badge/Next%20Milestone-Rust%20Production%20App-purple?style=for-the-badge&logo=target&color=6f42c1" />
+</div>
+
+### 🏆 Learning Achievements
+
+<details>
+<summary><b>🔓 Click to unlock my learning achievements</b></summary>
+
+<br/>
+
+| Achievement | Status | Date | Description |
+|-------------|--------|------|-------------|
+| 🦀 **Rust Beginner** | ✅ Completed | Jan '24 | Mastered ownership, borrowing, and lifetimes |
+| 🤖 **ML Fundamentals** | ✅ Completed | Feb '24 | Linear regression, classification, neural networks |
+| 💎 **DeFi Basics** | 🔄 In Progress | Mar '24 | AMMs, liquidity pools, yield farming |
+| ⚡ **Advanced Rust** | 🔄 In Progress | Current | Async programming, macros, unsafe code |
+| 🧠 **Deep Learning** | 📅 Planned | Q2 '24 | CNNs, RNNs, transformers for creator tools |
+| 🔗 **Smart Contract Auditing** | 📅 Planned | Q3 '24 | Security patterns, common vulnerabilities |
+
+</details>
+
+</div>
+
+## <img src="https://media.giphy.com/media/3o7qDWp7hxhi1N8oNW/giphy.gif" width="40"> Fun Facts & Personality
+
+<div align="center">
+
+### 🎵 The Coding Soundtrack
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <img src="https://img.shields.io/badge/🎵_I_CODE_BETTER_WITH_WORSHIP_MUSIC-Fact-FF69B4?style=for-the-badge&labelColor=1a1a2e&color=FF69B4&logo=music" />
+      <br/>
+      <sub><i>"There's something about praise music that unlocks creative flow and divine inspiration in coding"</i></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Favorite%20Coding%20Playlist-Hillsong%20+%20Elevation-1DB954?style=flat-square&logo=spotify" />
+      <img src="https://img.shields.io/badge/Productivity%20Boost-+200%25-success?style=flat-square&logo=chart-line" />
+      <img src="https://img.shields.io/badge/Bug%20Fix%20Rate-+150%25-orange?style=flat-square&logo=bug" />
+    </td>
+  </tr>
+</table>
+
+### 🔥 Quirky Developer Habits
+
+<div align="left">
+
+| 🎯 Habit | 📊 Frequency | 💡 Impact |
+|----------|-------------|-----------|
+| 🙏 **Prayer before coding sessions** | Daily | Clarity & Purpose |
+| ☕ **Coffee ritual (Ethiopian blend)** | 3x/day | Energy & Focus |
+| 🎵 **Worship music coding** | 95% of time | Creative Flow |
+| 📖 **Bible verse of the day** | Morning | Wisdom & Perspective |
+| 🌅 **5 AM coding sessions** | 5x/week | Peak Productivity |
+| 🔥 **"This bitch slaps" when code works** | Too often | Pure Joy |
+
+</div>
+
+### 🎨 Personal Coding Style
+
+```javascript
+const myStyle = {
+    philosophy: "Faith-driven, purpose-built, people-focused",
+    approach: "Clean code that tells a story",
+    superpower: "Turning complex problems into simple solutions",
+    
+    codingTime: {
+        peak: "5:00 AM - 9:00 AM (Golden Hours)",
+        flow: "2:00 PM - 6:00 PM (Deep Work)",
+        creative: "8:00 PM - 11:00 PM (Innovation Time)"
+    },
+    
+    environment: {
+        music: "🎵 Worship & Instrumental",
+        drink: "☕ Ethiopian Coffee",
+        mood: "🔥 Passionate & Purposeful",
+        mantra: "Building tools that empower others"
+    },
+    
+    debugging: {
+        method: "Rubber duck + Prayer",
+        success_phrase: "This bitch slaps! 🔥",
+        celebration: "Gratitude + Coffee + Next Challenge"
+    }
+};
+```
+
+### 🌟 Faith & Code Integration
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Faith-Drives%20Purpose-FFD700?style=for-the-badge&logo=prayer&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Code-Serves%20Others-9D4EDD?style=for-the-badge&logo=heart&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Work%20Ethic-Excellence-FF69B4?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1a1a2e" />
+</div>
+
+<br/>
+
+> *"Every line of code is an opportunity to serve, every bug fix is a lesson in perseverance, and every feature is a chance to empower someone else's dream."*
 
 </div>
 

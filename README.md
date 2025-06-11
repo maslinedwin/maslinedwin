@@ -3,10 +3,6 @@
 <!-- Animated Header with Starfield Background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20,24,27&height=300&section=header&text=Maslin%20Edwin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Founder%20·%20Product%20Apostle%20·%20Code%20×%20Faith&descAlignY=58&descAlign=62" />
 
-<!-- Typing Animation SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Building+the+future+of+creator+monetization;This+bitch+slaps+through+pure+work+ethic+💫;Powered+by+faith%2C+driven+by+code" alt="Typing SVG" />
-</a>
 
 <!-- Profile Views and Visitor Counter -->
 <p align="center">

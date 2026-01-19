@@ -21,7 +21,7 @@ I build with AI. Most of what I ship today is pair-programmed with Claude — I 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
-## What I'm Up To
+## Current Focus
 
 Working on things I care about. I'd rather ship than talk about it.
 

@@ -23,7 +23,7 @@ I build with AI. Most of what I ship today is pair-programmed with Claude — I 
 
 ## Current Focus
 
-Working on things I care about. I'd rather ship than talk about it.
+Working on things I care about — I'd rather ship than talk about it.
 
 ## Connect
 

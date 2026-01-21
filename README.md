@@ -1,4 +1,4 @@
-# Hi, I'm Maslin Edwin
+# Maslin Edwin
 
 Founder at [Nowah](https://nowah.xyz) — based in Singapore.
 

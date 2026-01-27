@@ -2,7 +2,7 @@
 
 Founder of [Nowah](https://nowah.xyz) · Singapore
 
-I build with AI. Most of what I ship today is pair-programmed with Claude — I think that's the future of how software gets made.
+I build with AI — most of what I ship is pair-programmed with Claude — I think that's the future of how software gets made.
 
 ## Tech Stack
 

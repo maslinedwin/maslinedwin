@@ -25,7 +25,7 @@ I build with AI — most of what I ship is pair-programmed with Claude — I thi
 
 Working on things I care about — I'd rather ship than talk about it.
 
-## Connect
+## Get in Touch
 
 [![X](https://img.shields.io/badge/@maslinedwin-000000?style=flat&logo=x&logoColor=white)](https://x.com/maslinedwin)
 [![Email](https://img.shields.io/badge/maslin@nowah.xyz-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maslin@nowah.xyz)

@@ -30,7 +30,6 @@ Working on things I care about — I'd rather ship than talk about it.
 [![X](https://img.shields.io/badge/@maslinedwin-000000?style=flat&logo=x&logoColor=white)](https://x.com/maslinedwin)
 [![Email](https://img.shields.io/badge/maslin@nowah.xyz-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maslin@nowah.xyz)
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maslinedwin&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00A86B&icon_color=00A86B&text_color=C9D1D9&hide=issues&count_private=true" alt="GitHub Stats" />

@@ -32,5 +32,5 @@ Working on things I care about — I'd rather ship than talk about it.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maslinedwin&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00A86B&icon_color=00A86B&text_color=C9D1D9&hide=issues&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maslinedwin&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00A86B&icon_color=00A86B&text_color=C9D1D9&hide=issues&count_private=true" alt="stats" />
 </p>

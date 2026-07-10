@@ -24,26 +24,6 @@ Founder of [Nowah](https://nowah.xyz) · Singapore
 
 Shipping things I care about. Less talk, more code.
 
-**Building:** [Nowah](https://nowah.xyz) (AI-first product) + crushing open-source contributions across top-tier AI infrastructure projects.
-
-### Open Source (Recent Wins)
-
-27 PRs merged in 2 weeks across **6 Tier-1 projects** (Weaviate, Ollama, Transformers, Milvus, vLLM, TGI):
-
-- **Security:** Tar-slip/zip-slip RCE vulnerability fixes (Transformers)
-- **Performance:** 99% latency reduction in async streams (vLLM)
-- **ML Infrastructure:** XGBoost FunctionChain, autoscaling, JSON indexing (Milvus)
-- **LLM Inference:** GPU support, cloud compatibility, model detection (Ollama)
-- **Foundation Models:** Test standardization, type safety (Transformers)
-
-**Stats:** 87% acceptance rate | 1-2 day average review time | 0 rejections
-
----
-
-### Tech Stack (Extended)
-
-**AI/Infrastructure:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)
-
 ## Get in Touch
 
 [![X](https://img.shields.io/badge/@maslinedwin-000000?style=flat&logo=x&logoColor=white)](https://x.com/maslinedwin)

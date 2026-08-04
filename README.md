@@ -1,7 +1,7 @@
 <!--
   github.com/maslinedwin — product-first founder Overview
-  Design system: Nowah jade #00A86B · charcoal · dual-theme headers
-  Monthly: update Now + Recently shipped only.
+  Design: Nowah jade #00A86B · dual-theme SVG headers · product hero
+  Monthly: Now + Recently shipped only.
   Never: badge walls, stats widgets, snakes, trophies, star-cosplay pins.
 -->
 
@@ -29,13 +29,11 @@ Singapore
 
 <br />
 
-<img src="./assets/divider.png" alt="" width="100%" />
-
 ### Building
 
 I build **[Nowah](https://nowah.xyz)** — AI travel that books flights, eSIMs, and the boring middle so trips actually start.
 
-Days look like iOS + web product work, booking reliability, payments, and the APIs that make agents useful for real travel — not demos.
+Most days: iOS + web product work, booking reliability, payments, and the APIs that make agents useful for real travel — not demos.
 
 > *Shipping things I care about. Less talk, more code.*
 
@@ -43,45 +41,23 @@ Days look like iOS + web product work, booking reliability, payments, and the AP
 
 <div align="center">
   <img src="./assets/nowah-hero.png" alt="Nowah product — web Where to? home and iOS boarding-pass onboarding" width="100%" />
-  <br />
-  <sub>Nowah · web + iOS · book the trip, not the tabs</sub>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="./assets/nowah-phone-onboarding.png" alt="Nowah iOS boarding pass onboarding" height="380" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/nowah-web-home.png" alt="Nowah web chat home — Where to?" height="380" />
-</div>
+### Start here
 
-<br />
-
-<img src="./assets/section-start.svg" alt="Start here" width="100%" />
-
-<table>
-  <tr>
-    <td width="28%"><strong><a href="https://nowah.xyz">Nowah</a></strong></td>
-    <td>Product — AI travel that books (flights, eSIM, the messy middle)</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Nowah-xyz/nowah-mcp-server">nowah-mcp-server</a></strong></td>
-    <td>MCP server for assistants — flights, hotels, visas, live status</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Nowah-xyz/nowah-go-sdk">nowah-go-sdk</a></strong></td>
-    <td>Official Go client for the Nowah Travel API</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Nowah-xyz/nowah-java-sdk">nowah-java-sdk</a></strong></td>
-    <td>Official Java client for the Nowah Travel API</td>
-  </tr>
-</table>
+| | |
+|:--|:--|
+| **[Nowah](https://nowah.xyz)** | Product — AI travel that books |
+| **[nowah-mcp-server](https://github.com/Nowah-xyz/nowah-mcp-server)** | MCP for assistants — flights, hotels, visas, live status |
+| **[nowah-go-sdk](https://github.com/Nowah-xyz/nowah-go-sdk)** | Official Go client for the Travel API |
+| **[nowah-java-sdk](https://github.com/Nowah-xyz/nowah-java-sdk)** | Official Java client for the Travel API |
 
 ### Now
 
-- Shipping the full loop: **search → choose → pay → trip**, including eSIM install
-- Hardening public **MCP + SDKs** so partners ride the same rails we do
+- Shipping the full loop: **search → choose → pay → trip**, including eSIM
+- Hardening public **MCP + SDKs** so partners use the same rails we do
 - Building in public where it helps — private where the product needs to
 
 ### Recently shipped
@@ -95,7 +71,7 @@ Days look like iOS + web product work, booking reliability, payments, and the AP
 ### Tools I use to build Nowah
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,postgres,redis,aws,docker,figma&theme=dark" alt="TypeScript React Next.js Node Postgres Redis AWS Docker Figma" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,postgres,redis,aws,docker&theme=dark" alt="TypeScript, React, Next.js, Node, Postgres, Redis, AWS, Docker" />
 </p>
 
 | Surface | Stack |
@@ -110,26 +86,17 @@ Days look like iOS + web product work, booking reliability, payments, and the AP
 
 <br />
 
-`TypeScript` `React Native` `Expo` `Next.js` `Node` `PostgreSQL` `Redis` `Prisma` `AWS` `Docker` `Stripe` · model APIs as needed
+`TypeScript` `React Native` `Expo` `Next.js` `Node` `PostgreSQL` `Redis` `Prisma` `AWS` `Docker` `Stripe`
 
 </details>
 
 ### Reach
 
-<table>
-  <tr>
-    <td>Product</td>
-    <td><a href="https://nowah.xyz">nowah.xyz</a></td>
-  </tr>
-  <tr>
-    <td>Email</td>
-    <td><a href="mailto:maslin@nowah.xyz">maslin@nowah.xyz</a></td>
-  </tr>
-  <tr>
-    <td>X</td>
-    <td><a href="https://x.com/maslinedwin">@maslinedwin</a></td>
-  </tr>
-</table>
+| | |
+|:--|:--|
+| Product | [nowah.xyz](https://nowah.xyz) |
+| Email | [maslin@nowah.xyz](mailto:maslin@nowah.xyz) |
+| X | [@maslinedwin](https://x.com/maslinedwin) |
 
 If you’re building travel infrastructure, agent tooling, or want to collaborate — say hello.
 

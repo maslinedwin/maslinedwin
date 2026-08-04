@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="36" viewBox="0 0 900 36">
+  <text x="0" y="24" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#8B949E">START HERE</text>
+  <line x1="110" y1="20" x2="900" y2="20" stroke="#30363D" stroke-width="1"/>
+  <circle cx="110" cy="20" r="3" fill="#00A86B"/>
+</svg>

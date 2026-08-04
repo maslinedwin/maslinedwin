@@ -1,44 +1,51 @@
 # Profile maintenance
 
-## Monthly (5 minutes)
+## Monthly (5 min)
 
-1. Update **Now** in `README.md` with what you’re actually shipping.
-2. Add one line to **Recently shipped** (product nouns + month). Drop oldest if >5.
-3. Confirm pins still tell the story (owned Nowah surfaces only).
+1. Update **Now** with what you’re actually shipping.
+2. Add one **Recently shipped** row (product nouns + period). Keep ≤5.
+3. Confirm pins: owned Nowah surfaces only.
 
-## Never reintroduce
+## Design system (don’t break)
 
-- Multicolor badge walls
-- github-readme-stats / trophies / snakes / visitor counters
-- Non-owned mega-star pins (fork cosplay)
-- Dual public emails (keep `maslin@nowah.xyz` only)
-- Hustle / “world-class” / peacock language
+| Token | Value |
+|-------|--------|
+| Jade | `#00A86B` / bright `#1FD08A` |
+| Dark GH | `#0d1117` |
+| Headers | `assets/header-dark.svg` + `header-light.svg` |
+| Hero | `assets/nowah-hero.png` |
+| Product | phone + web framed PNGs |
 
-## Sidebar (GitHub → Settings → Public profile)
+**One craft motion max.** No badge walls, stats cards, snakes, trophies, visitor counters.
+
+## Sidebar (manual — needs `user` scope or UI)
 
 | Field | Value |
 |-------|--------|
 | Bio | `Founder of Nowah · AI travel that books · Singapore` |
 | Website | `https://nowah.xyz` |
 | Company | `@Nowah-xyz` |
-| Location | Singapore |
-| X | `maslinedwin` |
-
-## Pins (order)
-
-1. `Nowah-xyz/nowah-mcp-server`
-2. `Nowah-xyz/nowah-go-sdk`
-3. `Nowah-xyz/nowah-java-sdk`
-
-Unpin anything else, especially third-party forks.
-
-## One-time CLI (if `gh` has `user` scope)
 
 ```bash
-gh auth refresh -h github.com -s user -s read:user -s repo -s read:org -s workflow
+gh auth refresh -h github.com -s user -s read:user -s repo -s read:org
 gh api user -X PATCH \
   -f bio='Founder of Nowah · AI travel that books · Singapore' \
   -f blog='https://nowah.xyz'
 ```
 
-Pins still require the GitHub UI: **Customize your pins**.
+## Pins (GitHub UI → Customize your pins)
+
+1. `Nowah-xyz/nowah-mcp-server`  
+2. `Nowah-xyz/nowah-go-sdk`  
+3. `Nowah-xyz/nowah-java-sdk`  
+
+**Unpin** `google-gemini/gemini-cli` and any non-owned star cosplay.
+
+## Regenerating assets
+
+Product frames/hero are built from:
+
+- iOS sim boarding-pass screenshot  
+- nowah-web “Where to?” desktop screenshot  
+
+Re-run the framing script when product UI meaningfully changes; keep dual-theme SVG headers brand-aligned.

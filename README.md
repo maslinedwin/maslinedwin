@@ -1,37 +1,84 @@
-# Maslin Edwin
+<!--
+  Profile README — keep it quiet, product-first, maintainable.
+  Monthly: refresh ## Now and ## Recently shipped only.
+  Do not reintroduce badge walls, stats widgets, snakes, or trophy rows.
+-->
 
-Founder of [Nowah](https://nowah.xyz) · Singapore
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
+    <img src="assets/banner-dark.png" alt="Nowah — AI travel that books" width="100%" />
+  </picture>
+</p>
 
+<p align="center">
+  <strong>Maslin Edwin</strong><br />
+  Founder of <a href="https://nowah.xyz">Nowah</a> — AI travel that books<br />
+  Singapore
+</p>
 
-## Stack
+<p align="center">
+  <a href="https://nowah.xyz">nowah.xyz</a> ·
+  <a href="https://x.com/maslinedwin">@maslinedwin</a> ·
+  <a href="mailto:maslin@nowah.xyz">maslin@nowah.xyz</a>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+---
+
+I build **[Nowah](https://nowah.xyz)** — AI travel that books flights, eSIMs, and the boring bits so trips start sooner.
+
+Most days I’m in the product: iOS, web, booking flows, and the APIs that make agents useful for real travel — not demos.
+
+> Shipping things I care about. Less talk, more code.
+
+<p align="center">
+  <img src="assets/nowah-phone-onboarding.png" alt="Nowah iOS — boarding pass onboarding" height="420" />
+  &nbsp;&nbsp;
+  <img src="assets/nowah-web-home.png" alt="Nowah web — Where to? chat home" height="420" />
+</p>
+
+<p align="center"><sub>Nowah — book the trip, not the tabs</sub></p>
+
+## Start here
+
+1. **[Nowah](https://nowah.xyz)** — product (AI travel that books)
+2. **[nowah-mcp-server](https://github.com/Nowah-xyz/nowah-mcp-server)** — travel tools for AI assistants (flights, hotels, visas, live status)
+3. **[nowah-go-sdk](https://github.com/Nowah-xyz/nowah-go-sdk)** — official Go client for the Nowah Travel API
+4. **[nowah-java-sdk](https://github.com/Nowah-xyz/nowah-java-sdk)** — official Java client
 
 ## Now
 
-Shipping things I care about. Less talk, more code.
+- Shipping Nowah end-to-end: search → choose → pay → trip, including eSIM
+- Hardening public MCP + SDKs so partners can use the same rails we do
+- Still building in public where it helps — core app work stays private when it should
 
-## Get in Touch
+## Recently shipped
 
-[![X](https://img.shields.io/badge/@maslinedwin-000000?style=flat&logo=x&logoColor=white)](https://x.com/maslinedwin)
-[![Email](https://img.shields.io/badge/maslin@nowah.xyz-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maslin@nowah.xyz)
-[![Email](https://img.shields.io/badge/maslin@donatuz.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maslin@donatuz.com)
+- **2026** — Public [Nowah MCP server](https://github.com/Nowah-xyz/nowah-mcp-server) for assistants and agents
+- **2026** — [Go](https://github.com/Nowah-xyz/nowah-go-sdk) & [Java](https://github.com/Nowah-xyz/nowah-java-sdk) SDKs for the Travel API
+- **2026** — Nowah web + iOS product loops (flights, chat booking, onboarding)
 
+## Tools I use to build Nowah
 
+| Surface | Stack |
+|---------|--------|
+| Mobile | React Native / Expo, TypeScript |
+| Product web & APIs | TypeScript, Node, PostgreSQL |
+| AI / agents | Model APIs, MCP, own travel tools |
+| Infra & payments | AWS, Docker, Stripe |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maslinedwin&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00A86B&icon_color=00A86B&text_color=C9D1D9&hide=issues&count_private=true" alt="stats" />
-</p>
+<details>
+<summary>Fuller list</summary>
+
+TypeScript · React Native · Expo · Next.js · Node · PostgreSQL · Redis · Prisma · AWS · Docker · Stripe · Claude / OpenAI-class APIs as needed
+
+</details>
+
+## Reach
+
+- Product: [nowah.xyz](https://nowah.xyz)
+- Email: [maslin@nowah.xyz](mailto:maslin@nowah.xyz)
+- X: [@maslinedwin](https://x.com/maslinedwin)
+
+If you’re building travel infrastructure, agent tooling, or want to collaborate — say hello.
